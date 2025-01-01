@@ -46,3 +46,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 [Shadcn](https://ui.shadcn.com/themes)
 
+[Tailwind](https://tailwindcss.com/)
+
+[MongoDB](https://www.mongodb.com/)
+
+[Mongoose](https://mongoosejs.com/)
+
+
