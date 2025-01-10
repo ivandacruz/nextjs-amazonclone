@@ -46,6 +46,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 [Shadcn](https://ui.shadcn.com/themes)
 
+[Shadcn carousel](https://ui.shadcn.com/docs/components/carousel)
+
+[Embla carousel autoplay](https://www.embla-carousel.com/plugins/autoplay/)
+
+// or 
+
+[Npm Embla carousel autoplay](https://www.npmjs.com/package/embla-carousel-autoplay)
+
 [Tailwind](https://tailwindcss.com/)
 
 [MongoDB](https://www.mongodb.com/)
@@ -53,3 +61,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 [Mongoose](https://mongoosejs.com/)
 
 
+<br>
+
+# Progress project 
+
+<img src="./public/progress-images/banner-progress.png" alt="Progress banner">
+
+
+#
