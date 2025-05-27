@@ -69,3 +69,46 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 #
+
+## Páginas do Sistema
+
+### Página de Lojas (`/stores`)
+A página de lojas físicas oferece uma experiência interativa para os usuários encontrarem e conhecerem nossas unidades:
+
+#### Características Principais:
+- **Carrossel de Imagens**: 
+  - Exibição dinâmica das lojas com transições suaves
+  - Navegação intuitiva com botões de anterior/próximo
+  - Overlay semi-transparente para melhor legibilidade do texto
+  - Imagens otimizadas para carregamento rápido
+
+- **Localização das Lojas**:
+  - Shopping Morumbi
+  - Shopping Cidade São Paulo
+  - Shopping Villa-Lobos
+  - Informações detalhadas de cada unidade:
+    - Endereço completo
+    - Horário de funcionamento
+    - Telefone de contato
+    - Botões de "Como Chegar" e "Ligar"
+
+- **Serviços Disponíveis**:
+  - Compras na loja
+  - Retirada de produtos
+  - Serviços financeiros
+  - Atendimento personalizado
+
+- **Diferenciais**:
+  - Ambiente moderno
+  - Wi-Fi gratuito
+  - Área de descanso
+  - Cafeteria
+  - Estacionamento
+
+#### Tecnologias Utilizadas:
+- `embla-carousel-react` para o carrossel de imagens
+- Componentes responsivos do shadcn/ui
+- Otimização de imagens com Next.js Image
+- Design adaptativo para todos os dispositivos
+
+#
